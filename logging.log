@@ -1,0 +1,14 @@
+2020-03-28 05:49:38,115 OPenning image1 from path C:/Users/khale/Downloads/img (2).jpg
+2020-03-28 05:49:40,020 Display ft phase of image 1
+2020-03-28 05:49:47,736 OPenning image2 from path C:/Users/khale/Downloads/img1 (2).jpg
+2020-03-28 05:49:50,580 Display ft imaginary of image 2
+2020-03-28 05:50:01,683 component 1 selected is ft magnitude and component 2 is ft phase
+2020-03-28 05:50:01,683 mode changed from to mag_phase
+2020-03-28 05:50:03,492 mode changed from mag_phase to mag_phase
+2020-03-28 05:50:03,493 component 1 selected isft magnitudeand component 2 is ft phase
+2020-03-28 05:50:08,428 Display mix of ft magnitude from img1 with ratio 0.39 and ft phase from img2 with ratio 0.39 on output 1
+2020-03-28 05:50:12,219 component 1 selected is ft realand component 2 is ft phase
+2020-03-28 05:50:12,219 mode changed from mag_phaseto real_im
+2020-03-28 05:50:14,815 mode changed from real_imto real_im
+2020-03-28 05:50:14,815 component 1 selected is ft real and component 2 is ft imaginary
+2020-03-28 05:50:26,488 Display mix of ft realfrom img1 with ratio 0.9 and ft imaginary from img2 with ratio 0.9 on output 2
